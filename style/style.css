@@ -21,6 +21,9 @@ a {
 img {
     padding: 20px;
     border: black dotted 5px;
+    height: auto;
+    width: 50%;
+    margin: auto;
     display: block;
 }
 
