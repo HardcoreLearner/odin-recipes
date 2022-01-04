@@ -1,0 +1,44 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    font-size: 40px;
+    background-color: aqua;
+    color: white;
+    display: block;
+    text-align: center;    
+}
+
+a {
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+img {
+    padding: 20px;
+    border: black dotted 5px;
+    display: block;
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
+}
+
+ul {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    background-color: orange;
+    color: white;
+    border: white dotted 5px;
+}
+
+p {
+    background-color: olive;
+    color: white;
+}
